@@ -1,0 +1,31 @@
+\BOOKMARK [0][-]{section*.1}{Abstract}{}% 1
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 2
+\BOOKMARK [0][-]{chapter.2}{State of the art}{}% 3
+\BOOKMARK [1][-]{section.2.1}{RJMS implementation and limitation}{chapter.2}% 4
+\BOOKMARK [1][-]{section.2.2}{Resource selector}{chapter.2}% 5
+\BOOKMARK [1][-]{section.2.3}{Job scheduler}{chapter.2}% 6
+\BOOKMARK [0][-]{chapter.3}{Background}{}% 7
+\BOOKMARK [1][-]{section.3.1}{SLURM Architecture}{chapter.3}% 8
+\BOOKMARK [1][-]{section.3.2}{LAYOUTS Framework}{chapter.3}% 9
+\BOOKMARK [0][-]{chapter.4}{Multi-parameter resource selection prototype}{}% 10
+\BOOKMARK [1][-]{section.4.1}{LAYOUTS based Consumable Resource Selection}{chapter.4}% 11
+\BOOKMARK [1][-]{section.4.2}{Energy Efficient Consumable Resource Selection}{chapter.4}% 12
+\BOOKMARK [0][-]{chapter.5}{Experimentation and Performance Evaluation}{}% 13
+\BOOKMARK [1][-]{section.5.1}{Experiment Environment}{chapter.5}% 14
+\BOOKMARK [1][-]{section.5.2}{Performance Analysis}{chapter.5}% 15
+\BOOKMARK [0][-]{chapter.6}{Conclusion and Future Work}{}% 16
+\BOOKMARK [1][-]{section.6.1}{Conclusion}{chapter.6}% 17
+\BOOKMARK [1][-]{section.6.2}{Future Work}{chapter.6}% 18
+\BOOKMARK [0][-]{section*.7}{Bibliography}{}% 19
+\BOOKMARK [0][-]{appendix.A}{SLURM Experiment Configuration}{}% 20
+\BOOKMARK [1][-]{section.A.1}{SLURM System Configuration}{appendix.A}% 21
+\BOOKMARK [1][-]{section.A.2}{SLURM Topology Configuration}{appendix.A}% 22
+\BOOKMARK [0][-]{appendix.B}{Layouts plugin Keys and Key relations}{}% 23
+\BOOKMARK [1][-]{section.B.1}{Node Architecture \(cons\137res\137partition\) Keys}{appendix.B}% 24
+\BOOKMARK [1][-]{section.B.2}{Cluster Topology \(cons\137res\137topology\) Keys}{appendix.B}% 25
+\BOOKMARK [1][-]{section.B.3}{Energy Layout \(topology\137power\) keys}{appendix.B}% 26
+\BOOKMARK [0][-]{appendix.C}{Layouts Configuration File}{}% 27
+\BOOKMARK [1][-]{section.C.1}{Node Architecture \(cons\137res\137partition\) Configuration}{appendix.C}% 28
+\BOOKMARK [1][-]{section.C.2}{Cluster Topology \(cons\137res\137topology\) Configuration}{appendix.C}% 29
+\BOOKMARK [1][-]{section.C.3}{Energy Layout \(topology\137power\) Configuration}{appendix.C}% 30
+\BOOKMARK [0][-]{appendix.D}{Resource selection implementation in Select plugins}{}% 31

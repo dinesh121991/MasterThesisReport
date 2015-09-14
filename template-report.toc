@@ -1,0 +1,48 @@
+\select@language {english}
+\select@language {english}
+\contentsline {chapter}{Abstract}{i}{section*.1}
+\contentsline {chapter}{\chapternumberline {1}Introduction}{1}{chapter.1}
+\contentsline {chapter}{\chapternumberline {2}State of the art}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}RJMS implementation and limitation}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Resource selector}{4}{section.2.2}
+\contentsline {section}{\numberline {2.3}Job scheduler}{6}{section.2.3}
+\contentsline {chapter}{\chapternumberline {3}Background}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}SLURM Architecture}{9}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Resource Selection}{11}{subsection.3.1.1}
+\contentsline {subsubsection}{Select Plugin APIs}{11}{section*.2}
+\contentsline {subsubsection}{Types of Select Plugin}{15}{section*.3}
+\contentsline {subsection}{\numberline {3.1.2}Topology plugin}{16}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2}LAYOUTS Framework}{16}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Internal Architecture of LAYOUTS}{17}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}LAYOUTS APIs}{19}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}LAYOUTS New APIs}{20}{subsection.3.2.3}
+\contentsline {chapter}{\chapternumberline {4}Multi-parameter resource selection prototype}{21}{chapter.4}
+\contentsline {section}{\numberline {4.1}LAYOUTS based Consumable Resource Selection}{21}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Layouts Plugins}{21}{subsection.4.1.1}
+\contentsline {subsubsection}{Computing node Plugins}{22}{section*.4}
+\contentsline {subsubsection}{Topology Plugins}{23}{section*.5}
+\contentsline {subsection}{\numberline {4.1.2}Resource Selection Plugin}{24}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}Energy Efficient Consumable Resource Selection}{27}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Layouts Plugin for Energy}{27}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Resource Selection Plugin}{29}{subsection.4.2.2}
+\contentsline {chapter}{\chapternumberline {5}Experimentation and Performance Evaluation}{33}{chapter.5}
+\contentsline {section}{\numberline {5.1}Experiment Environment}{33}{section.5.1}
+\contentsline {section}{\numberline {5.2}Performance Analysis}{34}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Evaluation of Layouts based Consumable Resource Selection}{34}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Evaluation of Energy Efficient Consumable Resource Selection}{38}{subsection.5.2.2}
+\contentsline {chapter}{\chapternumberline {6}Conclusion and Future Work}{41}{chapter.6}
+\contentsline {section}{\numberline {6.1}Conclusion}{41}{section.6.1}
+\contentsline {section}{\numberline {6.2}Future Work}{41}{section.6.2}
+\contentsline {chapter}{Bibliography}{43}{section*.7}
+\contentsline {appendix}{\chapternumberline {A}SLURM Experiment Configuration}{45}{appendix.A}
+\contentsline {section}{\numberline {A.1}SLURM System Configuration}{45}{section.A.1}
+\contentsline {section}{\numberline {A.2}SLURM Topology Configuration}{46}{section.A.2}
+\contentsline {appendix}{\chapternumberline {B}Layouts plugin Keys and Key relations}{47}{appendix.B}
+\contentsline {section}{\numberline {B.1}Node Architecture (cons\_res\_partition) Keys}{47}{section.B.1}
+\contentsline {section}{\numberline {B.2}Cluster Topology (cons\_res\_topology) Keys}{49}{section.B.2}
+\contentsline {section}{\numberline {B.3}Energy Layout (topology\_power) keys}{49}{section.B.3}
+\contentsline {appendix}{\chapternumberline {C}Layouts Configuration File}{51}{appendix.C}
+\contentsline {section}{\numberline {C.1}Node Architecture (cons\_res\_partition) Configuration}{51}{section.C.1}
+\contentsline {section}{\numberline {C.2}Cluster Topology (cons\_res\_topology) Configuration}{52}{section.C.2}
+\contentsline {section}{\numberline {C.3}Energy Layout (topology\_power) Configuration}{52}{section.C.3}
+\contentsline {appendix}{\chapternumberline {D}Resource selection implementation in Select plugins}{55}{appendix.D}
